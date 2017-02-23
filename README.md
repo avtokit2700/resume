@@ -11,4 +11,6 @@ Python script for parsing main news in tyzhden.ua, with saving in to csv file
 Python parser which find and sort most commented articles in hacker-news.com
 
 
-My resume in rabota.ua : https://rabota.ua/cv/10050169
+
+------------------------------------------------
+**My resume in rabota.ua : https://rabota.ua/cv/10050169
