@@ -1,8 +1,8 @@
 # Resume
-This is simple resume for find job in Python, data sciense area
+This is simple resume whis some code, for find job in Python
 
 
-I'm young and ambitions student from Kiev polytechnic institute. Find my way into data sciense, analyst and data world.
+I'm student from Kiev polytechnic institute. Find my way into Python world and IT area.
 
 ### tyjden.py
 Python script for parsing main news in tyzhden.ua, with saving in to csv file
